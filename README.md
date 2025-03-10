@@ -10,7 +10,7 @@ Sistema Back-end para gerenciamento de alunos, projeto requisitado em processo s
 
 ## Requisitos para executar o projeto
 - JDK 21
-- Maven
+- Maven 3.9.9
 - Banco de dados MySql 8
 - Porta 8080 livre
 
