@@ -27,7 +27,7 @@ Crie um Schema com o nome de sua preferência no banco de dados MySql. Defina as
 ```shell
 set DATABASE_URL=jdbc:mysql://localhost:3306/students-manager-quality-sistemas #link para o banco com o nome da schema
 set DATABASE_USERNAME=root #seu usuário do banco de dados
-set DATABASE_USERNAME=123 #sua senha do banco de dados
+set DATABASE_PASSWORD=123 #sua senha do banco de dados
 ```
 *para linux ou mac, troque `set` por `export`*
 
